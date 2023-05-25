@@ -26,7 +26,6 @@ Languages / Tools:
 ![image](https://github.com/tarawiedeman/tara-wiedeman/assets/33428501/e7bca7c7-9c39-43c1-8076-6c9f9a0c4379)
 ![image](https://github.com/tarawiedeman/tara-wiedeman/assets/33428501/62ca3f6e-ac25-4800-b7b8-10f6da915795)
 ![image](https://github.com/tarawiedeman/tara-wiedeman/assets/33428501/d38490e9-2240-422b-9658-7583b0f3b5d6)
-![image](https://github.com/tarawiedeman/tara-wiedeman/assets/33428501/eb63dc73-6dfc-496c-90cd-4d6942a81452)
 ![image](https://github.com/tarawiedeman/tara-wiedeman/assets/33428501/9dbb5589-45f8-44b2-89a7-c09dc778cc53)
 ![image](https://github.com/tarawiedeman/tara-wiedeman/assets/33428501/1eb86acf-4cf1-4e12-935e-573b46c87d85)
 
