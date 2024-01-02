@@ -5,9 +5,9 @@ I have a degree in Business and Science so I'm equal parts logical problem-solve
 
 
 
-👩‍💻 I'm actively seeking opportunities as a Software Developer.  
+👩‍💻 I'm currently working as a Junior Software Developer and System Documentation Specialist at Central Station. My contract is ending soon and I'm actively seeking further career opportunities as a Software Developer.  
 
-🤓 I'm passionate about building functional, efficient and scalable software solutions that provide value to end-users.  
+🤓 I'm passionate about bringing my people and problem solving skills together at work. 
 
 ⭐️ I work well independently to complete tasks and enjoy a collaborative team where everyone learns from eachother during sprints.  
 
