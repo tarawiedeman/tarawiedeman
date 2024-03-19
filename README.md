@@ -1,10 +1,10 @@
 
-Hi there, my name is Tara and welcome to my GitHub! I've worked in tech for seven years in technical solutions consulting; I've helped customers large and small implement their software systems, and customize them to meet their needs. I love mastering new systems, problem solving, and troubleshooting. 
+Hi there, my name is Tara and welcome to my GitHub! I've worked in tech for eight years in technical solutions consulting and support; I've helped customers large and small implement their software systems, and debug the toughest of problems. I love mastering new systems, problem solving, and troubleshooting. 
 
 I have a degree in Business and Science so I'm equal parts logical problem-solver and relationship-builder.
 
 
-👩‍💻 I'm currently working as a Junior Software Developer and System Documentation Specialist at Central Station. My contract is ending soon and I'm actively seeking further career opportunities as a Software Developer.  
+👩‍💻 I'm actively seeking further career opportunities as a Software Developer, Technical Consultant, or Technical Support Engineer.  
 
 🤓 I'm passionate about bringing my people and problem solving skills together at work. 
 
